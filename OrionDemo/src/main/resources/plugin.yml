@@ -1,0 +1,10 @@
+name: Orion
+version: @version@
+main: cx.rain.mc.oriondemo.OrionDemo
+api-version: 1.13
+prefix: OrionDemo
+load: STARTUP
+authors: [QiuYuLuo]
+description: Demo for Orion.
+website: https://github.com/AmemiyaSigure/OrionLib
+depend: [OrionLib]

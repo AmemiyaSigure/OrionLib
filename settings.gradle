@@ -1,0 +1,3 @@
+rootProject.name = 'OrionLib'
+include 'Orion'
+include 'OrionDemo'

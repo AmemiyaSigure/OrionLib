@@ -1,0 +1,9 @@
+name: Orion
+version: @version@
+main: cx.rain.mc.orion.Orion
+api-version: 1.13
+prefix: OrionLib
+load: STARTUP
+authors: [QiuYuLuo]
+description: A library for developing Bukkit plugin of Minecraft server.
+website: https://github.com/AmemiyaSigure/OrionLib
